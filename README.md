@@ -1,1 +1,4 @@
-# Frankov-s-Tasty-Evenings
+# Frankov`s Tasty Evenings
+Сайт пекарні-кондитерської 
+
+Виконав: Франков Олександр студент групи ІО-92
